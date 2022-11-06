@@ -2,6 +2,9 @@ This app is setup using the Yeoman Generator.
 
 Weather Forecast Report Generator is a an Excel add in created using React and Excel API by which user can search for future weather, get a report on a sheet about the weather and filter data.
 
+Weather Forecast powered by VirtualCrossing TimeWeather API
+Geocode API poewered by OpenWeatherMap API
+
 To run this project, download the code -> run npm install inside the directory -> npm run start
 
 ![image](https://user-images.githubusercontent.com/21171567/200199387-09071fe4-2140-45fc-bbfd-20c32d271967.png)
