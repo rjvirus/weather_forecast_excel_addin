@@ -114,7 +114,7 @@ const ComboboxStyles: Partial<IComboBoxStyles> = { container: { marginTop: '8px'
 
 const RoundButtonStyles = { 
 	icon: { fontSize: '14px' }, 
-	flexContainer: { height: '16px', width: '16px', padding: '8px', borderRadius: '20px', background: '#00800014;' }, 
+	flexContainer: { height: '16px', width: '16px', padding: '8px', borderRadius: '20px', background: 'rgb(134 138 134 / 6%);' }, 
 	root: { padding: 0, borderRadius: '20px', top: '5px'}
 }
 
